@@ -9,5 +9,8 @@
 6. 系统时钟配置
 7. 串口通信（printf实现）
 8. DMA(memory to memory)
-8.  DMA(peripheral to memor)
-9.  
+8. DMA(peripheral to memor)
+9. I2C(hardware) 
+9. I2C(software) 
+9. I2C(software-digital)
+10. SPI(W25Q64)
