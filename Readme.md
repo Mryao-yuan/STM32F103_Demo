@@ -14,3 +14,9 @@
 9. I2C(software) 
 9. I2C(software-digital)
 10. SPI(W25Q64)
+10. SPI(more_function)
+11. FLASH(FATFS)
+11. FLASH(FATFS-self)
+12. SRAM
+13. OLED
+14. PWM(LED)
